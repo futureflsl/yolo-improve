@@ -1,5 +1,5 @@
 <table>
-<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>[yolov11改进系列]基于yolov11引入倒置残差块块注意力机制iEMA的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTm5tpbA==">下载</a></td></tr>
 <tr><td>[yolov11改进系列]基于yolov11引入反向残留移动块注意力机制iRMB的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTm5pwZg==">下载</a></td></tr>
