@@ -1,6 +1,15 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[yolov11改进系列]基于yolov11引入倒置残差块块注意力机制iEMA的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTm5tpbA==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入反向残留移动块注意力机制iRMB的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTm5pwZg==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]使用ConvNeXtV2替换backbone用于增强特征学习和多样性的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTm5puZw==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入双卷积DualConv用于轻量化网络的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTm5puZA==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入高效卷积模块SCConv减少冗余计算并提升特征学习的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTm5dsZg==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入混合标准卷积与深度可分离卷积GSConv用于轻量化网络的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTm5Zyag==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入空间深度转换卷积SPDConv用于低分辨率图像和小物体的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTm5ZqaA==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入动态卷积DynamicConv的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTmp9yaA==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]使用轻量级反向残差块网络EMO替换backbone的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTmp9tZg==">下载</a></td></tr>
 <tr><td>[yolov11改进系列]基于yolov11引入可改变核卷积AKConv的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTmZ1uaQ==">下载</a></td></tr>
 <tr><td>[yolov11改进系列]基于yolov11引入分布移位卷积DSConv的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTmZtrbQ==">下载</a></td></tr>
 <tr><td>[yolov11改进系列]基于yolov11引入全维度动态卷积ODConv的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTmZtqaw==">下载</a></td></tr>
