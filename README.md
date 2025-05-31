@@ -1,6 +1,15 @@
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[yolov11改进系列]基于yolov11引入可变形注意力DAttention的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkphyZw==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入跨空间学习的高效多尺度注意力EMA的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkpdsbQ==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入重参数化模块DiverseBranchBlock的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkpZxag==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入高效上采样卷积块EUCB的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkpZxZQ==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入高效坐标注意力机制CoordAttention的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkpZwaA==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入全局注意力机制GAM的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTm59uZQ==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入轻量级注意力机制模块ECA的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTm51xag==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入双通道注意力机制CBAM的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTm51wbA==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入大型分离卷积注意力模块LSKA减少计算复杂性和内存的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTm51taw==">下载</a></td></tr>
 <tr><td>[yolov11改进系列]基于yolov11引入倒置残差块块注意力机制iEMA的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTm5tpbA==">下载</a></td></tr>
 <tr><td>[yolov11改进系列]基于yolov11引入反向残留移动块注意力机制iRMB的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTm5pwZg==">下载</a></td></tr>
 <tr><td>[yolov11改进系列]使用ConvNeXtV2替换backbone用于增强特征学习和多样性的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWTm5puZw==">下载</a></td></tr>
