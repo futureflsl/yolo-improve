@@ -1,6 +1,15 @@
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[yolov11改进系列]基于yolov11引入空间通道系统注意力机制SCSA的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkp9rbA==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入自集成注意力机制SEAM解决遮挡问题的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkp9pbQ==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11使用图像去雾网络UnfogNet替换backbone的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkp5yZg==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11使用大卷积核UniRepLKNet替换backbone的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkp5vbA==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11使用极简主义网络VanillaNet替换backbone的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkp1sZQ==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入特征融合注意网络FFA-Net的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkp1raA==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入多尺度空洞注意力MSDA的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkplqag==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入迭代注意力特征融合iAFF的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkplpZg==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入上下文锚点注意力CAA的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkphyaQ==">下载</a></td></tr>
 <tr><td>[yolov11改进系列]基于yolov11引入可变形注意力DAttention的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkphyZw==">下载</a></td></tr>
 <tr><td>[yolov11改进系列]基于yolov11引入跨空间学习的高效多尺度注意力EMA的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkpdsbQ==">下载</a></td></tr>
 <tr><td>[yolov11改进系列]基于yolov11引入重参数化模块DiverseBranchBlock的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkpZxag==">下载</a></td></tr>
