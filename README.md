@@ -1,6 +1,15 @@
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[yolov11改进系列]基于yolov11使用SwinTransformer替换backbone用于提高多尺度特征提取能力的python源码</td><td><a href="https://mbd.pub/o/bread/YZWUk51taw==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入注意力机制SENetV1或者SENetV2的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUk51rZQ==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11使用GhostNetV1或GhostNetV2替换backbone的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUk5xuag==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11使用EfficientNetV1或者EfficientNetV2替换backbone的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUk5xtag==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入通道混洗的重参数化卷积RCS-OSA的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUk5dqaQ==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入轻量级通用上采样算子CARAFE的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUk5dpbA==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入轻量高效动态上采样算子DySample提升小目标检测能力的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUk5ZxaQ==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11引入深度可分卷积与多尺度卷积的结合MSCB的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUk5ZwbA==">下载</a></td></tr>
+<tr><td>[yolov11改进系列]基于yolov11使用FasterNet替换backbone用于轻量化网络的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkp9xaw==">下载</a></td></tr>
 <tr><td>[yolov11改进系列]基于yolov11引入空间通道系统注意力机制SCSA的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkp9rbA==">下载</a></td></tr>
 <tr><td>[yolov11改进系列]基于yolov11引入自集成注意力机制SEAM解决遮挡问题的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkp9pbQ==">下载</a></td></tr>
 <tr><td>[yolov11改进系列]基于yolov11使用图像去雾网络UnfogNet替换backbone的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUkp5yZg==">下载</a></td></tr>
