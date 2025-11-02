@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>项目名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>[yolov11改进系列]基于yolov11使用fasternet_t0替换backbone用于轻量化网络的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWYmZhxaQ==">下载</a></td></tr>
 <tr><td>[yolov11改进系列]基于yolov11引入单头自注意力机制SHSA的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUlJ9pZg==">下载</a></td></tr>
 <tr><td>[yolov11改进系列]基于yolov11引入频率感知特征融合模块FreqFusion的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUlJ5qbQ==">下载</a></td></tr>
 <tr><td>[yolov11改进系列]基于yolov11改进检测头引入DynamicHead的python源码+训练源码</td><td><a href="https://mbd.pub/o/bread/YZWUlJ5paw==">下载</a></td></tr>
